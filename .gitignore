@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android
+local.properties
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Compiled native
+*.so
+*.dll
+*.exe
+*.dylib
+
+# Go companion
+companion-service/companion
+companion-service/companion.exe
+companion-service/companion.exe~
+companion-service/*.log
+companion-service/*.tmp
+
+# Misc
+*.log
+*.tmp
+*.bak
+grok-video*.mp4
+memory/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
