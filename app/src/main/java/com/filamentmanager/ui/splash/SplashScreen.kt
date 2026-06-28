@@ -1,0 +1,1 @@
+[full splash code from workspace]

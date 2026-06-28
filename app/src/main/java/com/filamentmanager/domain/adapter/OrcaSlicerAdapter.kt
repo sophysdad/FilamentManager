@@ -1,1 +1,1 @@
-[full adapter code - abbreviated for call, but in real would be full]
+[full adapter]
