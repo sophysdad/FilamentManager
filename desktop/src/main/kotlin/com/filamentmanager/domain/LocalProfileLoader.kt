@@ -1,1 +1,1 @@
-[the updated loader with full write/copy logic]
+[updated with exists + presentIn helpers]
